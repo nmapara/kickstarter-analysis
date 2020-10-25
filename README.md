@@ -18,6 +18,7 @@ Louise wants to know how different campaigns performed, and what additional info
 ![Graph](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+![Graph](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
