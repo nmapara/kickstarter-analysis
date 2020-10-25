@@ -56,13 +56,13 @@ That a campaign goal of under $15000, or between $35000 and $45000 would be more
 
 - What are some limitations of this dataset?
 
-A key metric missing from this data set is access to the interner.  How well do the countries, or regions where the kickstarter campaign was launched, have access to internet
-and mobile funding.  More importantly, how established is the kickstarter platform as a brand in those countries.  Understanding the market awareness or impact of the kickstarer website in different regions would be a useful tool in validating the dataset and subsequent conclusions.
+A key metric missing from this data set is access to the internet.  How well do the countries, or regions where the kickstarter campaign was launched, have access to internet
+and mobile funding.  More importantly, how established is the kickstarter platform as a brand in those countries.  Understanding the market awareness or impact of the kickstarter website in different regions would be a useful tool in validating the dataset and subsequent conclusions.
 
 
-- What are some other possible tables and/or graphs that we could create?a 
+- What are some other possible tables and/or graphs that we could create? 
 
-If there was more time, there would be plenty of analysis to be done based on interantional trends.  Higher success rates occur in the summer months in the northern 
-hemisphere, but was a similar pattern observed for countries in the southern hemisphere.  Similarly, we should look at the different years for possible political or
-economic forces that affected people's ability to contribute to the campaign.
+If there was more time, there would be plenty of analysis to be done based on interntional trends.  Higher success rates occur in the summer months in the northern 
+hemisphere, but was a similar pattern observed for countries in the southern hemisphere during our winters.  
+Similarly, we should look at the different years for possible political or economic forces that affected people's ability to contribute to the campaign.
 
