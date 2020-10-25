@@ -45,18 +45,23 @@ spell check on VS but will look into that).
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-          1.  That May, June, and July were the best months to launch a campaign based on outcome.
-          2.  That December was the worst month to launch a campaign based on outcome.
+
+That May, June, and July were the best months to launch a campaign based on outcome.
+And that December was the worst month to launch a campaign based on outcome.
 
 - What can you conclude about the Outcomes based on Goals?
-          1. That a campaign goal of under $15000, or between $35000 and $45000 would be more succesful.
-          
+
+That a campaign goal of under $15000, or between $35000 and $45000 would be more succesful.
+
+
 - What are some limitations of this dataset?
+
 A key metric missing from this data set is access to the interner.  How well do the countries, or regions where the kickstarter campaign was launched, have access to internet
 and mobile funding.  More importantly, how established is the kickstarter platform as a brand in those countries.  Understanding the market awareness or impact of the kickstarer website in different regions would be a useful tool in validating the dataset and subsequent conclusions.
 
 
 - What are some other possible tables and/or graphs that we could create?a 
+
 If there was more time, there would be plenty of analysis to be done based on interantional trends.  Higher success rates occur in the summer months in the northern 
 hemisphere, but was a similar pattern observed for countries in the southern hemisphere.  Similarly, we should look at the different years for possible political or
 economic forces that affected people's ability to contribute to the campaign.
