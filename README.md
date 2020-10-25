@@ -13,8 +13,17 @@ Louise wants to know how different campaigns performed, and what additional info
 
 ## Analysis and Challenges
 
-
 ### Analysis of Outcomes Based on Launch Date
+Based on the figure below, Theater_Outcomes_vs_Launch, there were always more successful outcomes than failures.  
+This means that using KickStarter for theater projects will lead to net positive revenue.  However, failures were
+observed in each month.  So the question arises, which months would be better suited for a launch?  
+Again, review of the chart shows that the highest successful outcomes were observed in the month of May, tapering off till September.  
+Therefore, theater campaigns should target launches in the April/May timeframe for the greatest likelihood of sucess.
+
+The month of December had an equivalent number of both successful and failed outcomes, and the lowest number of successful outcomes.
+This means that a campaign launched in December would likely be less succesful than a launch in the spring/summer season.  Therefore, a 
+December campaign should be avoided.
+
 ![Graph](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
