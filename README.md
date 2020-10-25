@@ -24,14 +24,14 @@ The month of December had an equivalent number of both successful and failed out
 This means that a campaign launched in December would likely be less succesful than a launch in the spring/summer season.  Therefore, a 
 December campaign should be avoided.
 
-![Graph](Theater_Outcomes_vs_Launch.png)
+![Graph](/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Based on the figure below, Outcomes_vs_Goals, campaigns that had a goal less than $15000 had success rate that was higher than their failure rate.  
 Similarly, campaign goals that were between $35000 to $45000 also had a higher success rate.  This means that campaign goals should be under $15000, or between $35000 and $45000 for the greatest likelihood of success.
 
-![Graph](Outcomes_vs_Goals.png)
+![Graph](/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One of the challenges I had difficulty with was setting up my system at home so that I could look at all the data properly, while still reading the instructions
