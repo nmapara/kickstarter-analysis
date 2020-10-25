@@ -15,6 +15,7 @@ Louise wants to know how different campaigns performed, and what additional info
 
 
 ### Analysis of Outcomes Based on Launch Date
+![Graph](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
